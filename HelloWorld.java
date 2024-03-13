@@ -6,7 +6,6 @@ public class HelloWorld {
         System.out.print("Enter your Good Name:");
         name=sc.nextLine();
         System.out.println("Hello "+name);
-
-
     }
 }
+
